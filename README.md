@@ -10,6 +10,7 @@ Techs i've used least one <br/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
 <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-hyun-hee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
