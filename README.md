@@ -27,7 +27,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-hyun-hee&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
-  ### 🛠 SKILL 🛠
+  ## 🛠 SKILL 🛠
  
 <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=Csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-FAFAFA?style=for-the-badge&logo=Unity&logoColor=black">
