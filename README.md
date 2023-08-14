@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=200&descAlign=50&fontAlign=50&section=header&text=HyunHee Kim&fontSize=65&fontColor=2E2E2E&animation=twinkling)  
-    
+
+<div align="center">
+
 ## 💻 Tech Stacks 💻
     
 Techs i've used least one <br/> 
@@ -24,5 +26,4 @@ Techs i've used least one <br/>
 
 ## License
 
-KIT(Kumoh Institute Technology) 2017.03 ~
 </div>
