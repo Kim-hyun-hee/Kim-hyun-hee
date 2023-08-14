@@ -37,7 +37,7 @@ Techs i've used least one <br/>
 
 <div align="center">
   
-  <img align="right" src="http://github-readme-stats.vercel.app/api?username=Kim-hyun-hee&show_icons=true&theme=dracula/>
+  <img align="right" src="http://github-readme-stats.vercel.app/api?username=Kim-hyun-hee&show_icons=true&theme=dracula"/>
 
   
 ## 👋 Hyun Hee 👋 
