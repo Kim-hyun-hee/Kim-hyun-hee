@@ -21,7 +21,7 @@ Techs i've used least one <br/>
 <img alt="Gmail" src 
 ="https://img.shields.io/badge/kibbel1998@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-hyun-hee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-hyun-hee&show_icons=true&theme=dracula)
 
 <br/>
 
