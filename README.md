@@ -37,7 +37,8 @@ Techs i've used least one <br/>
 
 <div align="center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-hyun-hee&show_icons=true&theme=dracula)
+
   
 ## 👋 Hyun Hee 👋 
   
