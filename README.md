@@ -60,8 +60,9 @@ Techs i've used least one <br/>
 
 
 <div align="center">
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-hyun-hee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-hyun-hee&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
   ### 🛠 SKILL 🛠
  
