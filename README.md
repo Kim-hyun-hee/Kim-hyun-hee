@@ -1,4 +1,5 @@
-
+<div align="center"><h3>🛠️ 안녕하세요 🙌<br>
+홍익대학교 컴퓨터 공학과 17학번 유니티 개발자 김현희입니다.</h3></div>
 
 <div align="center">
 
