@@ -1,5 +1,3 @@
-</div>
-
 <div align="center">
   
   <img align="right" src="http://github-readme-stats.vercel.app/api?username=Kim-hyun-hee&show_icons=true&theme=dracula"/>
